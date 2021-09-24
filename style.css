@@ -1,0 +1,34 @@
+.co-all{
+
+margin: auto;
+margin-top: 13.5rem ;
+}
+#text{
+    font-size: 25px;
+}
+#author{
+    margin-bottom: 2rem;
+     font-size: 20px;
+}
+
+#new-quote{
+    float: right;
+}
+@media (min-width: 200px) { 
+    .co-all{
+        width: 90%;
+    } }
+
+@media (min-width: 768px) { 
+    .co-all{
+        width: 75%;
+    } 
+}
+
+ 
+
+@media (min-width: 992px) { 
+    .co-all{
+        width: 50%;
+    } 
+ }
